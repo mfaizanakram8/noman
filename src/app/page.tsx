@@ -2,7 +2,7 @@
 
 import { navItems } from "@/data";
 
-import Hero from "@/components/Hero";
+import Hero from "@/components/HeroSection";
 import Grid from "@/components/Grid";
 import Footer from "@/components/Footer";
 import Clients from "@/components/Clients";

@@ -1,6 +1,6 @@
 "use client";
 import { FaLocationArrow } from "react-icons/fa6";
-import { projects } from "@/src/data";
+import { projects } from "@/data";
 import { PinContainer } from "./ui/Pin";
 import Image from "next/image"; // Ensure you are importing the Image component from Next.js
 
